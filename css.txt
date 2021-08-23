@@ -1,0 +1,5 @@
+1.css
+- tag class id가 있는데 이 중 id가 가장 강하고 그 다음 class tag 순이다.
+- id 값은 1개의 id만 사용 대학생시절의 학번이나 민증이라고 생각하면됨
+- #은 id .은 class
+- css Selectors Reference -> 선택해서 코드를 작성 할 수 있음 
